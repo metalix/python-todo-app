@@ -2,6 +2,6 @@ not do
 run
 walk
 talk
-pass
+ to youpass
 drink
 watching Ted
